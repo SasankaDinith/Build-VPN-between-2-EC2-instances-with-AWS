@@ -14,14 +14,14 @@
   <ul>
     <li><a href="https://github.com/SasankaDinith/Build-VPN-between-2-EC2-instances-with-AWS/blob/4fa09624178b0227e91acf576cc19ed301da57e3/Step-by-step%20guide.pdf">Report.pdf</a> — Full step-by-step guide, commands, configs, diagrams, and screenshots. (Open this first.)</li>
     <li><code>diagram.png</code> — Architecture diagram (add or replace with your exported diagram).</li>
-    <li><code>wg0-server.conf</code>, <code>wg0-client.conf</code> — Example configs (remove private keys before publishing).</li>
-    <li><code>smb.conf-snippet.txt</code> — Samba config snippet used for the lab.</li>
+
   </ul>
 
   <hr class="section"/>
 
   <h2>Quick Architecture Diagram</h2>
   <p>Place your exported diagram image file named <code>diagram.png</code> at the repo root and it will render below:</p>
+  
   ![image_url](https://github.com/SasankaDinith/Build-VPN-between-2-EC2-instances-with-AWS/blob/ab1f60556fb4ddd0b02a158edde110f42469d451/diagram.png)
   
   <hr class="section"/>
