@@ -22,7 +22,7 @@
 
   <h2>Quick Architecture Diagram</h2>
   <p>Place your exported diagram image file named <code>diagram.png</code> at the repo root and it will render below:</p>
-  [image](https://github.com/SasankaDinith/Build-VPN-between-2-EC2-instances-with-AWS/blob/ab1f60556fb4ddd0b02a158edde110f42469d451/diagram.png)
+  ![image_url](https://github.com/SasankaDinith/Build-VPN-between-2-EC2-instances-with-AWS/blob/ab1f60556fb4ddd0b02a158edde110f42469d451/diagram.png)
   
   <hr class="section"/>
 
